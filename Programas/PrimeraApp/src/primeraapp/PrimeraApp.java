@@ -8,22 +8,27 @@ import java.util.Scanner;
 
 /**
  *
- * @author Kirian Amador Guillén
+ * @author alumno
  */
-
-//Pedir dos números, multiplicarlos, y sumarlos
-
 public class PrimeraApp {
+
+    /**
+     * @param args the command line arguments
+     */
     public static void main(String[] args) {
-        System.out.println("Escribe el numero 1:");
+        
+        
         Scanner sc = new Scanner(System.in);
-        int num1 = sc.nextInt();
+        System.out.println("Dame la base: ");
+        int b = sc.nextInt();
+        System.out.println("Dame la altura: ");
+        int a = sc.nextInt();
         
-        System.out.println("Escribe el numero 1:");
-        int num2 = sc.nextInt();
+        System.out.println("El area de rectangulo es:");
+        int resultado=b*a/2;
+        System.out.println(resultado);
         
-        System.out.println("Suma: " + (num1+num2));
-        System.out.println("Multiplicfacion: " + (num1*num2));
+        
     }
     
 }

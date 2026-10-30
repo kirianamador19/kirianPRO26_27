@@ -9,7 +9,7 @@ package tareaprog;
  * @author Kirian Amador Guillén
  */
 
-public class DOSSIER_2_Ej14 {
+public class Dossier_2_Ej14 {
     public static void main(String[] args) {
         //Si tenemos las líneas de código:
         

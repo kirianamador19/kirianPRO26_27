@@ -2,14 +2,14 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package tareaprog;
+package primeraapp;
 
 /**
  *
  * @author Kirian Amador Guillén
  */
 
-public class DOSSIER_2_Ej14 {
+public class Dossier_2_Ej14 {
     public static void main(String[] args) {
         //Si tenemos las líneas de código:
         

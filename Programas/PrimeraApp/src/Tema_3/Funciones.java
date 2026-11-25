@@ -38,6 +38,7 @@ public class Funciones {
             case 2: System.out.println(num1 + " + " + num2 + " = " + (num1+num2));break;
             case 3: System.out.println(num1 + " - " + num2 + " = " + (num1-num2));break;
             case 4: System.out.println(num1 + " / " + num2 + " = " + (num1/num2));break;
+            default: System.out.println("La operación elegida no es válida.");
         }
     }
 }
